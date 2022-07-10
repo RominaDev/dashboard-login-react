@@ -1,0 +1,69 @@
+.card-transporte {
+    height: 550px;
+    border-radius: 20px;
+    background: #FFF;
+}
+
+.card-calendario {
+    height: 250px;
+    border-radius: 20px;
+    background: #FFF;
+}
+
+.card-text {
+    justify-items: center;
+    margin: 1rem;
+}
+
+.titulo {
+    font-weight: bolder;
+    font-size: 30px;
+    color: rgb(189, 189, 189);
+}
+
+.subtitulo {
+    font-weight: bolder;
+    font-size: 30px;
+    color: #000;
+    text-align: center;
+}
+
+.subtitulo-2 {
+    width: 90%;
+    height: 40px;
+    background: #fc4a1a;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #f7b733, #fc4a1a);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #f7b733, #fc4a1a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 20px 20px 0 0;
+    font-weight: bolder;
+    font-size: 20px;
+    color: #FFF;
+    text-align: center;
+    margin: auto;
+}
+
+.subtitulo-3 {
+    height: 40px;
+    width: 90%;
+    background: #c31432;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #240b36, #9c2169);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #240b36, #9c2169); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 20px 20px 0 0;
+    font-weight: bolder;
+    font-size: 20px;
+    color: #FFF;
+    text-align: center;
+    margin: auto;
+}
+
+.img-chaleco {
+    width: 70px;
+    height: 70px;
+}
+
+.conteo {
+    color: #000;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 80px;
+}
